@@ -1,5 +1,5 @@
 ﻿  main.cpp
-C:\Users\Home\Desktop\laba3_Подбор\CG_Labs-9c1cfab2f5632c6e4aea4d81f3178ab10c6d95a3\tgaimage.h(60,59): warning C4244: =: преобразование "float" в "unsigned char", возможна потеря данных
+C:\Users\Home\Desktop\laba3_Подбор\Лаба3\tgaimage.h(60,59): warning C4244: =: преобразование "float" в "unsigned char", возможна потеря данных
   (компиляция исходного файла "main.cpp")
   
-  Lab3.vcxproj -> C:\Users\Home\Desktop\laba3_Подбор\CG_Labs-9c1cfab2f5632c6e4aea4d81f3178ab10c6d95a3\x64\Debug\Lab3.exe
+  Lab3.vcxproj -> C:\Users\Home\Desktop\laba3_Подбор\Лаба3\x64\Debug\Lab3.exe
